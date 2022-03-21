@@ -1,1 +1,1 @@
-# machine-learning-mnist-classifier
+Google AI Machine Learning Course: Implementing a Classifier Using a Multi-Layer Perceptron
